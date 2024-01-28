@@ -37,7 +37,7 @@ Para acceder al proyecto, los clientes deben enviar un token JWT válido en el e
 
 ## Tecnologías utilizadas 
 
-- **ASP.NET Core:** Un framework para construir aplicaciones web y servicios en .NET. 
+- **.NET 6:** La última versión del framework para construir aplicaciones web y servicios.
 - **Entity Framework Core:** Un ORM (Object-Relational Mapper) para .NET que se utiliza para interactuar con la base de datos. 
 - **AutoMapper:** Una biblioteca .NET para mapear entre objetos. 
 - **JWT (JSON Web Tokens):** Un estándar para autenticar y autorizar usuarios. 
