@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MundoConstructivo.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfff08d66ab0267f811a92ada87c9c4f954b73fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("MundoConstructivo.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MundoConstructivo.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

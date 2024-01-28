@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MundoConstructivo.Infrastructure
-build_property.ProjectDir = F:\Repositories\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Infrastructure\
+build_property.ProjectDir = C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Infrastructure\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,12 @@
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\bin\Debug\net6.0\MundoConstructivo.Core.deps.json
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\bin\Debug\net6.0\MundoConstructivo.Core.dll
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\bin\Debug\net6.0\MundoConstructivo.Core.pdb
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.AssemblyInfoInputs.cache
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.AssemblyInfo.cs
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.csproj.CoreCompileInputs.cache
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.sourcelink.json
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.dll
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\refint\MundoConstructivo.Core.dll
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\MundoConstructivo.Core.pdb
+C:\Users\juli7\OneDrive\Documentos\ColegioMundoConstructivo\MundoConstructivo\MundoConstructivo.Core\obj\Debug\net6.0\ref\MundoConstructivo.Core.dll
